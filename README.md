@@ -1,5 +1,7 @@
 # Gitmoji
 
+## emoji list
+
 🎨  - :art: - Improving structure / format of the code.  
 ⚡️  - :zap: - Improving performance.  
 🔥  - :fire: - Removing code or files.  
